@@ -42,7 +42,7 @@ nav ul li{
 }
 .Picture ul{
     display: flex;
-    padding: 5%;
+    padding: 10%;
     width: 400%;
     animation: automatico 17s infinite alternate linear;
 }
